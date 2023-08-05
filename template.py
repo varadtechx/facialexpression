@@ -21,7 +21,7 @@ list_of_folders = [
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trails.ipnyb",
+    "research/trials.ipynb",
     "templates/index.html",
                 ]
 
