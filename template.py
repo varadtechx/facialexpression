@@ -22,6 +22,7 @@ list_of_folders = [
     "requirements.txt",
     "setup.py",
     "research/trails.ipnyb",
+    "templates/index.html",
                 ]
 
 for filepath in list_of_folders:
